@@ -44,9 +44,15 @@
 - 🔹 DevOps Project (Coming soon)
 - 🔹 AWS Deployment Practice
 - 🔹 Linux Automation Scripts
+- 🔹 🌐 Portfolio Website: https://princesinghchauhan.qzz.io/
 
 ---
 
+## 🏢 Experience / Exposure
+- 💡 Exploring real-world DevOps workflows inspired by platforms like **GetAlchemyst AI**
+- 🌍 Understanding cloud infrastructure, deployment strategies, and automation used in modern startups
+  
+---
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/Prince-singh-chauhan">
@@ -56,8 +62,9 @@
   <a href="https://www.linkedin.com/in/prince-chauhan-20901930b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
+
+  <a href="https://princesinghchauhan.qzz.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
----
-
-⭐ *“Consistency > Talent in DevOps Journey”*
